@@ -1,0 +1,11 @@
+{
+    "dependencies": ".",
+    "graphs": {
+        "toner": "toner:graph",
+        "historian" : "historian:graph",
+        "mathgraph" : "math_graph:graph",
+        "mailtoner" :"mail_toner:graph"
+        
+    }
+    
+}
